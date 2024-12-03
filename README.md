@@ -11,7 +11,7 @@ Libraries used here are:
 
 3.Sklearn library for showcasing linear regresssion
 
-The actual value is marked as * in red colour and the predicted value is marked in red colour to show the precision
+The actual value is marked as * in red colour and the predicted value is marked in blue colour to show the precision
 
 THANK YOU
 
