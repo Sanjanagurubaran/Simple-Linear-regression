@@ -15,3 +15,4 @@ The actual value is marked as * in red colour and the predicted value is marked 
 
 THANK YOU
 
+I have uploaded a screenshot where I worked out this in spyder (anaconda navigator) which gives you better idea...
